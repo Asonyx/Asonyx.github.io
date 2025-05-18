@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Jump 'Impossible'",
+    "description": "Un jump quasi impossible à réaliser, le but étant de sauter au dessus du parking et de retomber sur l'autre flanc de la coline",
+    "image": "./jumps/impossible.png",
+    "difficulty": 9,
+    "coords": [966.75, 1314.5]
+  },
+  {
+    "id": 2,
+    "name": "Jump de Blume",
+    "description": "Un très grand jump devant le bâtiment de Blume (cassera surement votre véhicule)",
+    "image": "./jumps/blume.png",
+    "difficulty": 2,
+    "coords": [1068.5, 1285]
+  },
+  {
+    "id": 3,
+    "name": "Jump de San Bruno vers la Silicon Valley",
+    "description": "Jump facile à rater dû au relief et sa position, il faut bien viser (cassera potentiellement votre véhicule)",
+    "image": "./jumps/san-bruno-sv.png",
+    "difficulty": 6,
+    "coords": [1291, 980]
+  },
+  {
+    "id": 4,
+    "name": "Jump de l'escalier de Live Mouillé",
+    "description": "Jump moyennement difficile (cassera surement votre véhicule), il faut bien viser pour ne pas foncer à côté",
+    "image": "./jumps/live-m.png",
+    "difficulty": 4,
+    "coords": [983.75, 993.5]
+  },
+  {
+    "id": 4,
+    "name": "Jump en dessous de Live Mouillé",
+    "description": "Jump rocher plutôt facile, qui vous fera passer au dessous de la route",
+    "image": "./jumps/route-live.png",
+    "difficulty": 2,
+    "coords": [955.75, 925.75]
+  },
+  {
+    "id": 5,
+    "name": "Jump de l'escalier du spot photo de San Bruno",
+    "description": "Jump un peu difficile, car l'escalier étant étroit et le fait qu'il soit situé dans un virage le rend difficile",
+    "image": "./jumps/escalier-san-bruno.png",
+    "difficulty": 5,
+    "coords": [764.5, 869.25]
+  },
+  {
+    "id": 6,
+    "name": "Jump de l'escalier du lac de San Bruno",
+    "description": "Vous devez prendre de l'élan si vous voulez atterrir dans le lac, sinon vous atterrirez sur le chemin (cassera votre véhicule)",
+    "image": "./jumps/sb-lac.png",
+    "difficulty": 3,
+    "coords": [531.75, 1106.75]
+  },
+  {
+    "id": 7,
+    "name": "Jump de la montagne au parking du lac de San Bruno",
+    "description": "Jump juste après le chemin descendant de la montagne",
+    "image": "./jumps/origine.png",
+    "difficulty": 2,
+    "coords": [673, 1030.5]
+  },
+  {
+    "id": 8,
+    "name": "Jump remorque devant un silo industriel",
+    "description": "Peut être difficile de prendre de l'élan à cause du virage\nSi le jump est bien réalisé, vous pouvez atterrir sur le silo",
+    "image": "./jumps/sillo.png",
+    "difficulty": 3,
+    "coords": [843.5, 1095.25]
+  }
+
+]

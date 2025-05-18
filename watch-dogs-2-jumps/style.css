@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Liter&family=Montserrat&display=swap');
+#map {
+    width: 100%; /* Ou une largeur fixe */
+    height: 100vh; /* Prend toute la hauteur de la fenêtre */
+}
+
+body {
+    margin: 0; /* Supprimer la marge par défaut du corps */
+    overflow: hidden; /* Éviter les barres de défilement si la carte est en plein écran */
+}
+
+* {
+    font-family: 'Liter', 'Roboto', sans-serif;
+}
