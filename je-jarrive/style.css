@@ -1,0 +1,23 @@
+.disco-gradient {
+    width: 99%;
+    height: 100%;
+    background: linear-gradient(90deg, #770000, #777700, #007700, #007777, #000077, #770077, #770000, #777700, #007700);
+    background-size: 400% 400%; /* Important pour pouvoir "déplacer" le dégradé */
+    animation: gradientMovement 15s linear infinite; /* 15s pour un mouvement lent et continu */
+}
+
+@keyframes gradientMovement {
+    0% { background-position: 0 50%; }
+    /*50% { background-position: 100% 50%; }*/
+    100% { background-position: 100% 50%; }
+}
+
+.cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.matt {
+    height: 98vh;
+}
