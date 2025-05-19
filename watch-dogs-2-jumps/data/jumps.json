@@ -66,7 +66,7 @@
   {
     "id": 8,
     "name": "Jump remorque devant un silo industriel",
-    "description": "Peut être difficile de prendre de l'élan à cause du virage\nSi le jump est bien réalisé, vous pouvez atterrir sur le silo",
+    "description": "Peut être difficile de prendre de l'élan à cause du virage. Si le jump est bien réalisé, vous pouvez atterrir sur le silo",
     "image": "./jumps/sillo.png",
     "difficulty": 3,
     "coords": [843.5, 1095.25]
